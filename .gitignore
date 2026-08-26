@@ -1,0 +1,26 @@
+# Visual Studio / Rider
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.cache
+*.bak
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+
+# Publish / output
+dist/
+publish/
+FuckLogs_Output/
+*.exe
+*.dll
+*.pdb
+
+# Test output
+TestResults/

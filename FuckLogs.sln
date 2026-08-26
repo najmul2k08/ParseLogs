@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37314.3 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuckLogs", "FuckLogs\FuckLogs.csproj", "{AD1B2016-562A-4780-85D6-582F5DA892E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD1B2016-562A-4780-85D6-582F5DA892E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD1B2016-562A-4780-85D6-582F5DA892E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD1B2016-562A-4780-85D6-582F5DA892E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD1B2016-562A-4780-85D6-582F5DA892E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65949426-1756-4B4C-A1CA-E86F68DD9349}
+	EndGlobalSection
+EndGlobal
